@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanyamsoni77
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Android Development
+- 👀 Tech_savvy
+- 🌱 I’m currently learning Android and Web Development
 - 📫 
 Instagram id - https://instagram.com/sanyam__soni__?igshid=YmMyMTA2M2Y=
 
